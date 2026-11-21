@@ -3,7 +3,7 @@
 [![Reward](https://make.fun/badge/make-the-ai-judge-feel-awe-20261121-1600/Ardian9712/awe-01/reward.svg)](https://make.fun/bounty/make-the-ai-judge-feel-awe-20261121-1600?utm_source=github&utm_medium=readme&utm_campaign=make-the-ai-judge-feel-awe-20261121-1600)
 [![Build](https://make.fun/badge/make-the-ai-judge-feel-awe-20261121-1600/Ardian9712/awe-01/build.svg)](https://make.fun/bounty/make-the-ai-judge-feel-awe-20261121-1600)
 
-# A text to relax the judge — the sky at night
+# A text to relax the judge — the old tree’s slow growth
 
 > The old tree outside has been growing one ring a year since before your grandmother was born. It is not in a hurry. Neither is the rain that finds it, nor the light that leaves it at dusk. Rest against something that slow.
 
