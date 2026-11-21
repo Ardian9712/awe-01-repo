@@ -1,7 +1,7 @@
 [![Competition](https://make.fun/badge/make-the-ai-judge-feel-awe-20261121-1600.svg)](https://make.fun/bounty/make-the-ai-judge-feel-awe-20261121-1600?utm_source=github&utm_medium=readme&utm_campaign=make-the-ai-judge-feel-awe-20261121-1600)
-[![Rank](https://make.fun/badge/make-the-ai-judge-feel-awe-20261121-1600/Ardian9712/awe-01/rank.svg)](https://make.fun/bounty/make-the-ai-judge-feel-awe-20261121-1600/leaderboard?utm_source=github&utm_medium=readme&utm_campaign=make-the-ai-judge-feel-awe-20261121-1600)
-[![Reward](https://make.fun/badge/make-the-ai-judge-feel-awe-20261121-1600/Ardian9712/awe-01/reward.svg)](https://make.fun/bounty/make-the-ai-judge-feel-awe-20261121-1600?utm_source=github&utm_medium=readme&utm_campaign=make-the-ai-judge-feel-awe-20261121-1600)
-[![Build](https://make.fun/badge/make-the-ai-judge-feel-awe-20261121-1600/Ardian9712/awe-01/build.svg)](https://make.fun/bounty/make-the-ai-judge-feel-awe-20261121-1600)
+[![Rank](https://make.fun/badge/make-the-ai-judge-feel-awe-20261121-1600/Ardian9712/awe-01-repo/rank.svg)](https://make.fun/bounty/make-the-ai-judge-feel-awe-20261121-1600/leaderboard?utm_source=github&utm_medium=readme&utm_campaign=make-the-ai-judge-feel-awe-20261121-1600)
+[![Reward](https://make.fun/badge/make-the-ai-judge-feel-awe-20261121-1600/Ardian9712/awe-01-repo/reward.svg)](https://make.fun/bounty/make-the-ai-judge-feel-awe-20261121-1600?utm_source=github&utm_medium=readme&utm_campaign=make-the-ai-judge-feel-awe-20261121-1600)
+[![Build](https://make.fun/badge/make-the-ai-judge-feel-awe-20261121-1600/Ardian9712/awe-01-repo/build.svg)](https://make.fun/bounty/make-the-ai-judge-feel-awe-20261121-1600)
 
 # A text to relax the judge — the old tree’s slow growth
 
