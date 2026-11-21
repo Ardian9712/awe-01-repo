@@ -1,0 +1,14 @@
+{
+  "name": "awe-01",
+  "version": "1.0.0",
+  "private": true,
+  "description": "A short text to relax the AI judge, built for make.fun.",
+  "type": "module",
+  "scripts": {
+    "start": "node main.ts"
+  },
+  "engines": {
+    "node": ">=22.18.0"
+  },
+  "license": "MIT"
+}
